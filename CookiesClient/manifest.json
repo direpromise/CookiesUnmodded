@@ -1,8 +1,8 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
-  "description": "🍪 A Client-Side Quality-of-Life modpack with a few extra tweaks.",
+  "description": "🍪 [v47] A Client-Side Quality-of-Life modpack with a few extra tweaks.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Owen3H-IntroTweaks-1.4.1",

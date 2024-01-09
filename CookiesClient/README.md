@@ -1,6 +1,4 @@
-# 🍪 Cookies Client Modpack - Client-Side, Vanilla Friendly 🍪
-
-
+# 🍪 [WORKS WITH v47] Cookies Client Modpack - Client-Side, Vanilla Friendly 🍪
 
 This modpack can be installed and fully run on Vanilla servers!
 
