@@ -1,3 +1,18 @@
+# CookiesClient 1.0.5
+
+- Updated config files
+- Updated BonkHitSFX
+- Added DoorsEscapeMusic
+- Added ItemClippingFix
+- Added CustomSounds
+- Added LCSoundTool
+- Added CookiesSounds 🍪
+- Added Portal_Turret_SFX
+- Added angry_british_bug
+- Added JesterFreeBirdPlus
+- Removed YippeeMod
+- Removed JesterFreeBird
+
 # CookiesClient 1.0.4
 
 Fixed some issues and actually removed KeyRing this time c:

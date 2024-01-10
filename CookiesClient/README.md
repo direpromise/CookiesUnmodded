@@ -1,5 +1,7 @@
 # 🍪 [WORKS WITH v47] Cookies Client Modpack - Client-Side, Vanilla Friendly 🍪
 
+# DISCORD COMING SOON!!! 🔜
+
 This modpack can be installed and fully run on Vanilla servers!
 
 Doesn't matter if you are hosting, or joining players with no mods, you'll be able to freely join and play on unmodded lobbies!
