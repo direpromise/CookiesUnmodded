@@ -1,3 +1,8 @@
+# CookiesClient 1.0.4
+
+Fixed some issues and actually removed KeyRing this time c:
+
+
 # CookiesClient 1.0.3
 
 - Updated config files
