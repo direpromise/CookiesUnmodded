@@ -1,3 +1,10 @@
+# CookiesClient 1.0.3
+
+- Updated config files
+- Added BetterEmotes
+- Added Removed KeyRing
+
+
 # CookiesClient 1.0.2
 
 - Updated config files.
