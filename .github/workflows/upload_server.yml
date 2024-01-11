@@ -1,0 +1,48 @@
+name: Upload Prebuilt Zip (Server)
+
+on:
+  push:
+    paths:
+      - 'CookiesServer/**'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create CookiesServer Zip
+        run: |
+          sudo apt-get install zip
+          cd CookiesServer
+          zip -r ../CookiesServer.zip icon.png manifest.json README.md BepInEx CHANGELOG.md
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: CookiesServer
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            🍪 A Server-Side modpack with a few extra tweaks.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            clientside
+            serverside
+            furniture
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+          # Check the correct format for dependencies in Thunderstore
+          deps: |
+            ChocolateCookies-CookiesServer-1.${{ github.run_number }}.0
+          file: ./CookiesServer.zip
+      - run: echo ${{ steps.pub.outputs.url }}

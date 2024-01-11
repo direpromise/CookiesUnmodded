@@ -1,0 +1,20 @@
+{
+  "name": "CookiesServer",
+  "version_number": "1.0.0",
+  "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
+  "description": "🍪 [v47 & v49] A Server-Side modpack with a few extra tweaks. 🍪",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Midge-PushCompany-1.2.0",
+    "FlipMods-FasterItemDropship-1.2.1",
+    "Ozone-BepInUtils-1.2.1",
+    "itsmeowdev-DoorFix-1.0.0",
+    "F4ilS4fe-MaskTheDead-1.0.5",
+    "TheFluff-GetLootForKills-1.2.0",
+    "gamendegamer-Lethal_Admin-1.2.0",
+    "Fredolx-MeteoMultiplier-1.1.2",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "Rocksnotch-CupboardFix-1.1.0",
+    "CharlesE2-HostFixes-1.0.4"
+  ]
+}

@@ -1,3 +1,8 @@
+# CookiesClient 1.0.6
+
+- Updated IntroTweaks
+- Updated Skinwalkers
+
 # CookiesClient 1.0.5
 
 - Updated config files
