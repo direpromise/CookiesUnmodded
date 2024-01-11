@@ -2,6 +2,8 @@
 
 - Updated IntroTweaks
 - Updated Skinwalkers
+- Updated CookiesSounds
+- Added FriendPatches
 
 # CookiesClient 1.0.5
 

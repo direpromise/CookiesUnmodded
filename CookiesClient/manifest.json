@@ -1,11 +1,11 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.0.5",
-  "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
+  "version_number": "1.0.6",
+  "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "🍪 [v47 & v49] A Client-Side Quality-of-Life modpack with a few extra tweaks. 🍪",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "Owen3H-IntroTweaks-1.4.1",
+    "Owen3H-IntroTweaks-1.4.2",
     "Sv_Matt-HideModList-1.0.1",
     "TwinDimensionalProductions-CoilHeadStare-1.0.3",
     "taffyko-NameplateTweaks-1.0.6",
@@ -22,7 +22,7 @@
     "sunnobunno-BonkHitSFX-1.0.5",
     "Spyci-CozyImprovements-1.2.1",
     "Ryokune-Better_Lobbies-1.0.2",
-    "RugbugRedfern-Skinwalkers-2.0.5",
+    "RugbugRedfern-Skinwalkers-2.0.6",
     "Rune580-LethalCompany_InputUtils-0.4.4",
     "Renegades-FlashlightToggle-1.5.0",
     "Suskitech-AlwaysHearActiveWalkies-1.4.4",
@@ -65,6 +65,7 @@
     "LavaCat_Studios-Portal_Turret_SFX-1.0.2",
     "HoffmanTV-angry_british_bug-1.4.1",
     "Mugen-FreeJesterPlus-1.0.0",
-    "ChocolateCookies-CookiesSounds-1.0.0"
+    "ChocolateCookies-CookiesSounds-1.0.3",
+    "Lauriichan-FriendPatches-1.0.0"
   ]
 }
