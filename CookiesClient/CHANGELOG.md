@@ -1,3 +1,8 @@
+# CookiesClient 1.0.8
+
+- Updated README.md
+- New Discord server!
+
 # CookiesClient 1.0.7
 
 - Updated config files
