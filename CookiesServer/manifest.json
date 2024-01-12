@@ -1,7 +1,7 @@
 {
   "name": "CookiesServer",
-  "version_number": "1.0.0",
-  "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
+  "version_number": "1.0.1",
+  "website_url": "https://discord.com/invite/7r7RBpybVK",
   "description": "🍪 [v47 & v49] A Server-Side modpack with a few extra tweaks. 🍪",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
