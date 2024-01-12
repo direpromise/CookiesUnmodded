@@ -1,6 +1,6 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "🍪 [v47 & v49] A Client-Side Quality-of-Life modpack with a few extra tweaks. 🍪",
   "dependencies": [
@@ -59,13 +59,12 @@
     "PopleZoo-BetterItemScan-3.0.0",
     "KlutzyBubbles-BetterEmotes-1.3.4",
     "ViViKo-ItemClippingFix-1.1.3",
-    "Mari0no1-DoorsEscapeMusic-1.0.1",
     "no00ob-LCSoundTool-1.4.0",
     "Clementinise-CustomSounds-2.2.0",
     "LavaCat_Studios-Portal_Turret_SFX-1.0.2",
     "HoffmanTV-angry_british_bug-1.4.1",
     "Mugen-FreeJesterPlus-1.0.0",
-    "ChocolateCookies-CookiesSounds-1.0.3",
+    "ChocolateCookies-CookiesSounds-1.0.4",
     "Lauriichan-FriendPatches-1.0.0"
   ]
 }

@@ -1,3 +1,11 @@
+# CookiesClient 1.0.7
+
+- Updated config files
+- Increased Nametags range visibility, may be subject to change
+- Updated Better_Lobbies
+- Updated CookiesClient (includes Doors Escape Music)
+- Removed DoorsEscapeMusic (not working)
+
 # CookiesClient 1.0.6
 
 - Updated IntroTweaks
