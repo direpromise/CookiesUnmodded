@@ -1,7 +1,15 @@
+# CookiesClient 1.1.0
+
+- Updated Skinwalkers's Config file again.
+- Updated LethalCompany_InputUtils
+- Added AEIOUCompany
+- Added More_Emotes
+- Removed Better Emotes
+
 # CookiesClient 1.0.9
 
 - Updated config files
-- Streamed to mini discord c:
+- Streamed to mini on discord c:
 
 
 # CookiesClient 1.0.8
