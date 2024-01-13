@@ -1,3 +1,9 @@
+# CookiesClient 1.0.9
+
+- Updated config files
+- Streamed to mini discord c:
+
+
 # CookiesClient 1.0.8
 
 - Updated README.md
