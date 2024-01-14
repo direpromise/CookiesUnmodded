@@ -1,3 +1,10 @@
+# CookiesClient 1.1.1
+
+- Updated Skinwalkers
+- Updated LethalCompany_InputUtils
+- Updated BetterLadders
+
+
 # CookiesClient 1.1.0
 
 - Updated Skinwalkers's Config file again.

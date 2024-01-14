@@ -3,7 +3,7 @@
 [![Ko-fi](https://img.shields.io/badge/Support-0%2C%20209%2C%200?style=for-the-badge&logo=kofi&logoColor=%23fc8803&link=https%3A%2F%2Fko-fi.com%2Fccchocolatecookies)](https://ko-fi.com/ccchocolatecookies)
 [<img src="https://i.imgur.com/Uv9Djbw.png" alt="Discord Server">](https://discord.gg/7r7RBpybVK)
 
-This modpack can be installed and so long as you are the host of the game, players without mods will be able to join you! !
+This modpack can be installed and so long as you are the host of the game, players without mods will be able to join you!
 
 
 👉 [Main Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
