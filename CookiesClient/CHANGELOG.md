@@ -1,3 +1,8 @@
+# CookiesClient 1.1.4
+
+- Updated CookiesSounds(% fix)
+- Updated LethalCompany_InputUtils
+
 # CookiesClient 1.1.3
 
 - Updated config files
