@@ -1,3 +1,9 @@
+# CookiesClient 1.1.2
+
+- Fixed some issues
+- Updated Skinwalkers
+- Updated LethalCompany_InputUtils
+
 # CookiesClient 1.1.1
 
 - Updated Skinwalkers
