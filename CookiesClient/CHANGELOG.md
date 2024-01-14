@@ -1,3 +1,8 @@
+# CookiesClient 1.1.3
+
+- Updated config files
+- Updated modpack desc
+
 # CookiesClient 1.1.2
 
 - Fixed some issues
