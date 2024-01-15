@@ -1,3 +1,8 @@
+# CookiesClient 1.1.5
+
+- Updated WalkieUse
+- Updated Skinwalkers (reverted back to v2 lol)
+
 # CookiesClient 1.1.4
 
 - Updated CookiesSounds(% fix)
