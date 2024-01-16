@@ -1,6 +1,6 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.1.6",
+  "version_number": "1.1.7",
   "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "🍪 [v47 & v49] WORKS WITH VANILLA SERVERS! A Client-Side Quality-of-Life modpack with a few extra tweaks. 🍪",
   "dependencies": [
@@ -51,7 +51,7 @@
     "KeroBeepBoop-HolyMolyPuffer-1.1.0",
     "MoonJuice-SprintLadderFix-1.0.0",
     "SleeplessKyru-SnapRotateFurniture-1.0.1",
-    "axd1x8a-LCAmmoCheck-1.0.0",
+    "axd1x8a-LCAmmoCheck-1.1.0",
     "phatisfat-ItemSlotNumKeys-1.0.0",
     "EliteMasterEric-Coroner-1.5.3",
     "kuba6000-LC_Masked_Fix-0.0.2",

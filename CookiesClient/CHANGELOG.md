@@ -1,3 +1,9 @@
+# <span style="color:orange">CookiesClient 1.1.7</span>
+
+- Removed DissonanceLagFix
+- Added FixRPCLag
+- Updated LCAmmoCheck (Added actual animation and sfx instead hacky workaround & fixed bug with interaction with buttons and doors)
+
 # <span style="color:orange">CookiesClient 1.1.6</span>
 
 - <span style="color:cyan">Updated</span> SellTracker (Fix things not running on clients (AGAIN))
