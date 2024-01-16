@@ -1,108 +1,111 @@
-# CookiesClient 1.1.5
+# <span style="color:orange">CookiesClient 1.1.6</span>
 
-- Updated WalkieUse
-- Updated Skinwalkers (reverted back to v2 lol)
+- <span style="color:cyan">Updated</span> SellTracker (Fix things not running on clients (AGAIN))
+- <span style="color:cyan">Updated</span> CHANGELOG.md
+- <span style="color:cyan">Updated</span> README.md
 
-# CookiesClient 1.1.4
-
-- Updated CookiesSounds(% fix)
-- Updated LethalCompany_InputUtils
-
-# CookiesClient 1.1.3
-
-- Updated config files
-- Updated modpack desc
-
-# CookiesClient 1.1.2
-
-- Fixed some issues
-- Updated Skinwalkers
-- Updated LethalCompany_InputUtils
-
-# CookiesClient 1.1.1
-
-- Updated Skinwalkers
-- Updated LethalCompany_InputUtils
-- Updated BetterLadders
+# <span style="color:orange">CookiesClient 1.1.5</span>
 
 
-# CookiesClient 1.1.0
+- <span style="color:cyan">Updated</span> WalkieUse
+- <span style="color:cyan">Updated</span> Skinwalkers (reverted back to v2 lol)
 
-- Updated Skinwalkers's Config file again.
-- Updated LethalCompany_InputUtils
-- Added AEIOUCompany
-- Added More_Emotes
-- Removed Better Emotes
+# <span style="color:orange">CookiesClient 1.1.4</span>
 
-# CookiesClient 1.0.9
+- <span style="color:cyan">Updated</span> CookiesSounds (% fix)
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
 
-- Updated config files
+# <span style="color:orange">CookiesClient 1.1.3</span>
+
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:cyan">Updated</span> modpack desc
+
+# <span style="color:orange">CookiesClient 1.1.2</span>
+
+- <span style="color:lime">Fixed</span> some issues
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+
+# <span style="color:orange">CookiesClient 1.1.1</span>
+
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+- <span style="color:cyan">Updated</span> BetterLadders
+
+# <span style="color:orange">CookiesClient 1.1.0</span>
+
+- <span style="color:cyan">Updated</span> Skinwalkers's Config file again.
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+- <span style="color:lime">Added</span> AEIOUCompany
+- <span style="color:lime">Added</span> More_Emotes
+- <span style="color:red">Removed</span> Better Emotes
+
+# <span style="color:orange">CookiesClient 1.0.9</span>
+
+- <span style="color:cyan">Updated</span> config files
 - Streamed to mini on discord c:
 
+# <span style="color:orange">CookiesClient 1.0.8</span>
 
-# CookiesClient 1.0.8
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:lime">New</span> Discord server!
 
-- Updated README.md
-- New Discord server!
+# <span style="color:orange">CookiesClient 1.0.7</span>
 
-# CookiesClient 1.0.7
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:lime">Increased</span> Nametags range visibility, may be subject to change
+- <span style="color:cyan">Updated</span> Better_Lobbies
+- <span style="color:cyan">Updated</span> CookiesClient (includes Doors Escape Music)
+- <span style="color:red">Removed</span> DoorsEscapeMusic (not working)
 
-- Updated config files
-- Increased Nametags range visibility, may be subject to change
-- Updated Better_Lobbies
-- Updated CookiesClient (includes Doors Escape Music)
-- Removed DoorsEscapeMusic (not working)
+# <span style="color:orange">CookiesClient 1.0.6</span>
 
-# CookiesClient 1.0.6
+- <span style="color:cyan">Updated</span> IntroTweaks
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> CookiesSounds
+- <span style="color:lime">Added</span> FriendPatches
 
-- Updated IntroTweaks
-- Updated Skinwalkers
-- Updated CookiesSounds
-- Added FriendPatches
+# <span style="color:orange">CookiesClient 1.0.5</span>
 
-# CookiesClient 1.0.5
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:cyan">Updated</span> BonkHitSFX
+- <span style="color:lime">Added</span> DoorsEscapeMusic
+- <span style="color:lime">Added</span> ItemClippingFix
+- <span style="color:lime">Added</span> CustomSounds
+- <span style="color:lime">Added</span> LCSoundTool
+- <span style="color:lime">Added</span> CookiesSounds 🍪
+- <span style="color:lime">Added</span> Portal_Turret_SFX
+- <span style="color:lime">Added</span> angry_british_bug
+- <span style="color:lime">Added</span> JesterFreeBirdPlus
+- <span style="color:red">Removed</span> YippeeMod
+- <span style="color:red">Removed</span> JesterFreeBird
 
-- Updated config files
-- Updated BonkHitSFX
-- Added DoorsEscapeMusic
-- Added ItemClippingFix
-- Added CustomSounds
-- Added LCSoundTool
-- Added CookiesSounds 🍪
-- Added Portal_Turret_SFX
-- Added angry_british_bug
-- Added JesterFreeBirdPlus
-- Removed YippeeMod
-- Removed JesterFreeBird
+# <span style="color:orange">CookiesClient 1.0.4</span>
 
-# CookiesClient 1.0.4
+<span style="color:lime">Fixed</span> some issues and actually <span style="color:red">removed</span> KeyRing this time c:
 
-Fixed some issues and actually removed KeyRing this time c:
+# <span style="color:orange">CookiesClient 1.0.3</span>
 
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:lime">Added</span> BetterEmotes
+- <span style="color:lime">Added</span> Removed KeyRing
 
-# CookiesClient 1.0.3
+# <span style="color:orange">CookiesClient 1.0.2</span>
 
-- Updated config files
-- Added BetterEmotes
-- Added Removed KeyRing
+- <span style="color:cyan">Updated</span> config files.
+- <span style="color:lime">Support for v49</span>.
+- <span style="color:lime">Added</span> Diversity
+- <span style="color:lime">Added</span> LC_Masked_Fix
+- <span style="color:lime">Added</span> Coroner
+- <span style="color:lime">Added</span> BetterItemScan
+- <span style="color:cyan">Updated</span> SellTracker
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> BetterSpec
 
+# <span style="color:orange">CookiesClient 1.0.1</span>
 
-# CookiesClient 1.0.2
+- <span style="color:lime">Support for v47</span>.
 
-- Updated config files.
-- Support for v49.
-- Added Diversity
-- Added LC_Masked_Fix
-- Added Coroner
-- Added BetterItemScan
-- Updated SellTracker
-- Updated Skinwalkers
-- Updated BetterSpec
+# <span style="color:orange">CookiesClient 1.0.0</span>
 
-# CookiesClient 1.0.1
-
-- Support for v47.
-
-# CookiesClient 1.0.0
-
-- Initial Release.
+- <span style="color:lime">Initial Release</span>.

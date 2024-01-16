@@ -7,7 +7,15 @@ This modpack can be installed and fully run on Vanilla servers! 😻
 
 Doesn't matter if you are hosting, or joining players with no mods, you'll be able to freely join and play on unmodded lobbies!
 
-👉 [Main Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
+
+👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Moons 🌑 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMOONS/)
+
+👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
+
+👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
 If facing issues, please delete your config folder, and let modpack update write new config files.
 

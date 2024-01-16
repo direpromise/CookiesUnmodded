@@ -6,7 +6,15 @@
 This modpack can be installed and so long as you are the host of the game, players without mods will be able to join you!
 
 
-👉 [Main Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
+
+👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Moons 🌑 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMOONS/)
+
+👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
+
+👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
 If facing issues, please delete your config folder, and let modpack update write new config files.
 
