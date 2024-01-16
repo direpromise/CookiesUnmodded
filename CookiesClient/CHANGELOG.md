@@ -1,3 +1,10 @@
+# <span style="color:orange">CookiesClient 1.1.8</span>
+
+- Updated CozyImprovements
+- Updated CookiesSounds
+- Updated LethalRichPresence
+
+
 # <span style="color:orange">CookiesClient 1.1.7</span>
 
 - Removed DissonanceLagFix
