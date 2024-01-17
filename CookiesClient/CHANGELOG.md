@@ -1,3 +1,20 @@
+# <span style="color:orange">CookiesClient 1.1.9</span>
+
+- Overhauled the look of the ship and implemented better Item Scanner Features as well as Terminal features^^
+- Updated LCAmmoCheck
+- Added GeneralImprovements (implements a bunch of fixes & additions that make other mods unneeded)
+- Added ToggleDeafen
+- Added LethalModManager (Attempts to install needed mods when joining servers with other mods, host must have this mod too)
+- Added LethalConfig
+- Added crosshair
+- Added MaskRemover
+- Removed Terminal_Clock
+- Removed SnapRotateFurniture
+- Removed DiscountAlert
+- Removed BetterItemScan
+- Removed Crosshair
+- Removed AEIOUCompany (bugs)
+
 # <span style="color:orange">CookiesClient 1.1.8</span>
 
 - Updated CozyImprovements

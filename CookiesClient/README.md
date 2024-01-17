@@ -17,6 +17,8 @@ Doesn't matter if you are hosting, or joining players with no mods, you'll be ab
 
 👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
+👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
+
 If facing issues, please delete your config folder, and let modpack update write new config files.
 
 ---
