@@ -16,6 +16,10 @@ This modpack can be installed and so long as you are the host of the game, playe
 
 👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
+👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
+
+👉 [Cookies Schizophrenia 😨 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSchizophrenia/)
+
 If facing issues, please delete your config folder, and let modpack update write new config files.
 
 ---
