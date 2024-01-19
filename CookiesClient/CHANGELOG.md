@@ -1,3 +1,9 @@
+# <span style="color:orange">CookiesClient 1.2.1</span
+
+- Please download a new update on fresh new profiles!
+- Updated GeneralImprovements & tweaked it's config
+
+
 # <span style="color:orange">CookiesClient 1.2.0</span
 
 - Sound update! now the modpack size should be much smaller
