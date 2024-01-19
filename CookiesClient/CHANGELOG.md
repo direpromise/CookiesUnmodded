@@ -1,3 +1,15 @@
+# <span style="color:orange">CookiesClient 1.2.0</span
+
+- Sound update! now the modpack size should be much smaller
+- Added PerformanceEnhancer
+- Updated TerminalApi
+- Updated GeneralImprovements
+- Updated BetterSpec
+- Updated ToggleDeafen
+- Updated CookiesSounds (MAJOR UPDATE!)
+- Updated CustomSounds
+- Updated LCSoundTool
+
 # <span style="color:orange">CookiesClient 1.1.9</span>
 
 - Overhauled the look of the ship and implemented better Item Scanner Features as well as Terminal features^^
