@@ -1,3 +1,28 @@
+# <span style="color:orange">CookiesClient 1.2.2</span
+
+- If you have any disapprovals for any recent changes, please be sure to use our discord, we're open to suggestions, please bear with us in terms of sound changes, we're still actively working on CookiesSounds
+- Going to remove unoptimized/heavy sound files from builds to improve the modpack moving forward
+- Going to remove unoptimized/poor things in general from builds to improve the modpack moving forward
+- Added YippeeMod by sunnobunno
+- Added Helmet_Cameras
+- Added LethalStats
+- Removed BonkHitSFX
+- Removed angry_british_bug
+- Removed Solos_Bodycam
+- Removed Portal_Turret_SFX
+- Removed LaserPointerDetonator
+- Updated PerformanceEnhancer
+- Updated GeneralImprovements
+- Updated LethalRichPresence
+- Updated CookiesSounds (Major UPDATE)
+- Updated CustomSounds
+- Updated FriendPatches
+- Updated PizzaTowerEscapeMusic
+- Updated config files
+- Updated GeneralImprovements config files
+- Updated pizzatowerescapemusic config files
+
+
 # <span style="color:orange">CookiesClient 1.2.1</span
 
 - Please download a new update on fresh new profiles!
