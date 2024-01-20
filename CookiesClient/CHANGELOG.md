@@ -1,3 +1,7 @@
+# CookiesClient 1.2.3
+
+- Updated CookiesSounds (Major UPDATE, forgot to do it in 1.2.2, sowwy)
+
 # <span style="color:orange">CookiesClient 1.2.2</span
 
 - If you have any disapprovals for any recent changes, please be sure to use our discord, we're open to suggestions, please bear with us in terms of sound changes, we're still actively working on CookiesSounds
@@ -14,7 +18,6 @@
 - Updated PerformanceEnhancer
 - Updated GeneralImprovements
 - Updated LethalRichPresence
-- Updated CookiesSounds (Major UPDATE)
 - Updated CustomSounds
 - Updated FriendPatches
 - Updated PizzaTowerEscapeMusic
