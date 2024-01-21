@@ -1,3 +1,11 @@
+# CookiesClient 1.2.4
+
+- Disabled Item Scanner fixes from GeneralImprovements until they fix their issues
+- Updated PerformanceEnhancer
+- Updated PizzaTowerEscapeMusic (now uses ogg, thank goodness jayden ♥)
+- Updated LethalCompany_InputUtils
+
+
 # CookiesClient 1.2.3
 
 - Updated CookiesSounds (Major UPDATE, forgot to do it in 1.2.2, sowwy)
