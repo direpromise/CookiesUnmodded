@@ -1,3 +1,9 @@
+# CookiesServer 1.0.6
+
+- Updated GetLootForKills
+- Updated FairAI
+
+
 # <span style="color:orange">CookiesServer 1.0.5</span>
 
 - With the 1.3.0 update the mod is using a new ban system. With this ban system it is possible to store a reason for a ban and the username of the banned user. The goal is to give the lobby host more information about previous bans they have given, and possibly in the future to show the ban reason when a player attempts to rejoin a lobby they have been banned from.
