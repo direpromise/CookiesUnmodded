@@ -1,3 +1,8 @@
+# CookiesClient 1.2.5
+
+- Updated CookiesSounds (hotfix)
+
+
 # CookiesClient 1.2.4
 
 - Disabled Item Scanner fixes from GeneralImprovements until they fix their issues
