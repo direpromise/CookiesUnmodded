@@ -1,3 +1,11 @@
+# CookiesClient 1.2.7
+
+- Added AutoWalk (Default key is 'K')
+- Added ShyHUD
+- Updated CookiesSounds
+- Updated README.md
+
+
 # CookiesClient 1.2.6
 
 - No information provided :(
