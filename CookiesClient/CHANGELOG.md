@@ -1,3 +1,7 @@
+# CookiesClient 1.2.6
+
+- No information provided :(
+
 # CookiesClient 1.2.5
 
 - Updated CookiesSounds (hotfix)
