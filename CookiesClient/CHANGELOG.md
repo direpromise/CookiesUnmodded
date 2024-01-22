@@ -1,3 +1,9 @@
+# CookiesClient 1.3.1
+
+- Added OpenBodyCams
+- Added CookiesSounds
+- Added LCBetterClock
+
 # CookiesClient 1.3.0
 
 - Added ScannableCodes
