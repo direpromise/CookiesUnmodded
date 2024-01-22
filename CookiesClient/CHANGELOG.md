@@ -1,3 +1,22 @@
+# CookiesClient 1.2.8
+
+- Added OpenBodyCams
+- Changed GeneralImprovements.cfg
+- Changed BetterSpec.cfg
+- Changed BetterLadders.cfg
+- Updated LethalLoudnessMeter
+- Updated CookiesSounds
+- Updated LethalStats
+- Updated GeneralImprovements
+- Removed PizzaTowerEscapeMusic config from pack to fix conflicts
+- Removed LCAmmoCheck (causes shawtie to disappear, will look into it) 
+- Removed FreeJesterPlus by mugen
+- Removed Treys_Health_Text
+- Removed Helmet_Cameras by RickArg
+- Removed ItemClippingFix
+- Removed ScannablePlayerItems
+
+
 # CookiesClient 1.2.7
 
 - Added AutoWalk (Default key is 'K')
