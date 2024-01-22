@@ -1,3 +1,9 @@
+# CookiesClient 1.2.9
+
+- Added LCAmmoCheck_OLD
+- Fixed issues relating to GeneralImprovements
+- Fixed issues relating to scanner
+
 # CookiesClient 1.2.8
 
 - Added OpenBodyCams
