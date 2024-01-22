@@ -1,3 +1,9 @@
+# CookiesClient 1.3.0
+
+- Added ScannableCodes
+- Added CookiesSounds
+- Added ShootableMouthDogs
+
 # CookiesClient 1.2.9
 
 - Added LCAmmoCheck_OLD
