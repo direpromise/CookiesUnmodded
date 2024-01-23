@@ -6,6 +6,23 @@
 This modpack can be installed and so long as you are the host of the game, players without mods will be able to join you!
 
 
+🍪 **Cookies Server: Your Easy-Upgrade for Your Host Save!** 🍪
+
+Only the host needs to install it—simple, right?
+
+**What's Inside:**
+
+- 🌐 Vanilla-Friendly: No mod stress for vanilla players.
+- ⚙️ Admin Control: Kick trolls, ban troublemakers effortlessly.
+- 💎 Loot Boost: Enemies drop loot on death, gift boxes are buffed.
+- 🌙 Moon Ammo: T3 moons now stock shotgun shells.
+- 👻 Ghost Fun: ghost girl with new surprises.
+- 🚁 Quick Drops: Item dropship delivery arrives much quicker.
+- 😷 Masked Twist: Dead players have a small chance to return  as masked.
+- 🤖 AI Tweaks: AI interactions tweaked with turrets, mines & each other.
+
+Ready for a modpack upgrade? 🚀 Install Cookies Server now! 🍪✨
+
 👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
 
 👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)

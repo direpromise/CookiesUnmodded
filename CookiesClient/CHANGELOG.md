@@ -1,3 +1,9 @@
+# CookiesClient 1.3.2
+
+- Updated Better_Lobbies
+- Updated OpenBodyCams
+- Updated CookiesSounds
+
 # CookiesClient 1.3.1
 
 - Added OpenBodyCams
