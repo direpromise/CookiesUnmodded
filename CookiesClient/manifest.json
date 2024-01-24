@@ -1,6 +1,6 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.3.2",
+  "version_number": "1.3.3",
   "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "🍪 [v47 & v49] WORKS WITH VANILLA SERVERS! A Client-Side Quality-of-Life modpack with a few extra tweaks. 🍪",
   "dependencies": [
@@ -19,7 +19,7 @@
     "Spyci-CozyImprovements-1.2.2",
     "Ryokune-Better_Lobbies-1.0.4",
     "RugbugRedfern-Skinwalkers-4.0.1",
-    "Rune580-LethalCompany_InputUtils-0.5.6",
+    "Rune580-LethalCompany_InputUtils-0.6.0",
     "Renegades-FlashlightToggle-1.5.0",
     "Suskitech-AlwaysHearActiveWalkies-1.4.4",
     "KodiCraft-TermSpeak-1.1.0",
@@ -39,7 +39,6 @@
     "nihl-RipAndTearShotgun-1.0.0",
     "dslogget-PlayerMapNumbers-0.1.1",
     "ZG-BetterSpec-1.1.3",
-    "KeroBeepBoop-HolyMolyPuffer-1.1.0",
     "MoonJuice-SprintLadderFix-1.0.0",
     "phatisfat-ItemSlotNumKeys-1.0.0",
     "EliteMasterEric-Coroner-1.5.3",
@@ -47,7 +46,7 @@
     "IntegrityChaos-Diversity-1.1.10",
     "no00ob-LCSoundTool-1.5.0",
     "Clementinise-CustomSounds-2.3.2",
-    "ChocolateCookies-CookiesSounds-1.1.9",
+    "ChocolateCookies-CookiesSounds-1.2.0",
     "Lauriichan-FriendPatches-1.0.1",
     "BGN-PizzaTowerEscapeMusic-2.3.0",
     "Ozone-Runtime_Netcode_Patcher-0.2.5",

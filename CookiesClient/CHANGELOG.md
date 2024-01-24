@@ -1,3 +1,10 @@
+# CookiesClient 1.3.3
+
+- Updated LethalCompany_InputUtils
+- Updated CookiesSounds
+- Removed HolyMolyPuffer KeroBeepBoop
+
+
 # CookiesClient 1.3.2
 
 - Updated Better_Lobbies
