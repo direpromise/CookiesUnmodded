@@ -1,3 +1,7 @@
+# CookiesServer 1.0.81
+
+- Updated GetLootForKills
+
 # CookiesServer 1.0.8
 
 - Updated README.md to better reflect on what the modpack is about.
