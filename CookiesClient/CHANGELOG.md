@@ -1,3 +1,12 @@
+
+
+# CookiesClient 1.3.32
+
+- Updated GeneralImprovements config files
+- Updated OpenBodyCams (AdvancedCompany Compat)
+- Added ReverbOnDeath
+
+
 # CookiesClient 1.3.31
 
 - Updated AccurateStaminaDisplay
