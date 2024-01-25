@@ -1,6 +1,6 @@
 # CookiesServer 1.0.81
 
-- Updated GetLootForKills
+- Updated GetLootForKills (fixed issue with immortal enemies)
 
 # CookiesServer 1.0.8
 
