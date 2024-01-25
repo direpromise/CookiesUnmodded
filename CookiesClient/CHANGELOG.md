@@ -1,3 +1,9 @@
+# CookiesClient 1.3.31
+
+- Updated AccurateStaminaDisplay
+- Updated GeneralImprovements
+- Updated OpenBodyCams
+
 # CookiesClient 1.3.3
 
 - Updated LethalCompany_InputUtils
