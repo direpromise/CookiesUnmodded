@@ -1,3 +1,12 @@
+# CookiesClient 1.3.34
+
+- Removed PerformanceEnhancer
+- Added CullFactory
+- Updated FlashlightFix
+- Updated CullFactory
+- Updated ReverbOnDeath
+- Updated Better_Lobbies
+
 # CookiesClient 1.3.33
 
 - Updated FlashlightFix
