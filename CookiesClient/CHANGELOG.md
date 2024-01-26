@@ -1,4 +1,7 @@
+# CookiesClient 1.3.33
 
+- Updated FlashlightFix
+- Updated OpenBodyCams
 
 # CookiesClient 1.3.32
 
