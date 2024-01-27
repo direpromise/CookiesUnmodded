@@ -1,3 +1,17 @@
+# CookiesClient 1.3.36
+
+- Updated CookiesSounds
+- Updated LethalCompany_InputUtils
+- Updated OpenBodyCams
+
+# CookiesClient 1.3.35
+
+- Added CookiesSounds again
+- Updated OpenBodyCams
+- Updated CullFactory
+- Updated GeneralImprovements
+
+
 # CookiesClient 1.3.34
 
 - Removed PerformanceEnhancer
