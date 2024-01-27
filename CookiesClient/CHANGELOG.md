@@ -1,3 +1,8 @@
+# CookiesClient 1.3.37
+
+- Tweaked config files
+- Updated CookiesSounds (Big update)
+
 # CookiesClient 1.3.36
 
 - Updated CookiesSounds
