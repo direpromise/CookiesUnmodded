@@ -1,3 +1,7 @@
+# CookiesClient 1.3.39
+
+- Updated OpenBodyCams
+
 # CookiesClient 1.3.38
 
 - Added BetterMonitor
