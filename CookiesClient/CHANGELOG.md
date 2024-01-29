@@ -1,3 +1,15 @@
+# CookiesClient 1.3.40
+
+- Added crossHair by CTNOriginals
+- Updated OpensBodyCam
+- Updated GeneralImprovements
+- Updated CullFactory
+- Removed RipAndTearShotgun
+- Removed ReverbOnDeath
+- Removed crosshair by OnionMilk
+- Removed BetterMonitor
+
+
 # CookiesClient 1.3.39
 
 - Updated OpenBodyCams
