@@ -1,3 +1,10 @@
+# CookiesClient 1.3.50
+
+- Added CookiesPresents
+- Updated CullFactory
+- Updated OpenBodyCams
+
+
 # CookiesClient 1.3.41
 
 - Updated OpenBodyCams
