@@ -1,3 +1,9 @@
+# CookiesClient 1.3.41
+
+- Updated OpenBodyCams
+- Updated AccurateStaminaDisplay
+- Updated CullFactory
+
 # CookiesClient 1.3.40
 
 - Added crossHair by CTNOriginals
