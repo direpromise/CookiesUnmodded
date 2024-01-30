@@ -1,4 +1,9 @@
-# CookiesClient 1.3.50
+# CookiesClient 1.3.51
+
+- Updated CullFactory
+- Updated GeneralImprovements
+- Updated Touchscreen
+- Updated CoilHeadStare
 
 - Added CookiesPresents
 - Updated CullFactory
