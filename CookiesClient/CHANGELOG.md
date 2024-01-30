@@ -1,12 +1,16 @@
+# CookiesClient 1.3.52
+
+- Updated CookiesSounds
+- Updated OpenBodyCams
+- Updated CookiesPresents
+
 # CookiesClient 1.3.51
 
+- Added CookiesPresents
 - Updated CullFactory
 - Updated GeneralImprovements
 - Updated Touchscreen
 - Updated CoilHeadStare
-
-- Added CookiesPresents
-- Updated CullFactory
 - Updated OpenBodyCams
 
 
