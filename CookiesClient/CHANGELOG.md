@@ -1,3 +1,9 @@
+# CookiesClient 1.3.53
+
+- Updated config files
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+
 # CookiesClient 1.3.52
 
 - Updated CookiesSounds
