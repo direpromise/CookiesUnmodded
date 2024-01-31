@@ -1,3 +1,8 @@
+# CookiesServer 1.0.82
+
+- Updated FairAI
+- Updated LethalLib
+
 # CookiesServer 1.0.81
 
 - Updated GetLootForKills (fixed issue with immortal enemies)
