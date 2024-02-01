@@ -1,3 +1,7 @@
+# CookiesServer 1.0.83
+
+- Updated IntroTweaks
+
 # CookiesServer 1.0.82
 
 - Updated FairAI

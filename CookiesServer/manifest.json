@@ -1,12 +1,12 @@
 {
   "name": "CookiesServer",
-  "version_number": "1.0.82",
+  "version_number": "1.0.83",
   "website_url": "https://discord.com/invite/7r7RBpybVK",
   "description": "🍪 [v47 & v49] ONLY THE HOST NEEDS IT! A Server-Side modpack with a few extra tweaks, perfect for every Lethal Company Host. 🍪",
   "dependencies": [
     "Sv_Matt-HideModList-1.0.1",
     "BepInEx-BepInExPack-5.4.2100",
-    "Owen3H-IntroTweaks-1.4.2",
+    "Owen3H-IntroTweaks-1.4.4",
     "FlipMods-FasterItemDropship-1.2.1",
     "F4ilS4fe-MaskTheDead-1.0.5",
     "TheFluff-GetLootForKills-1.2.3",
