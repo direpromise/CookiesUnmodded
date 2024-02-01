@@ -1,3 +1,12 @@
+# CookiesClient 1.3.54
+
+- Updated config files
+- Updated CookiesSounds
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+- Updated LCSoundTool
+- Updated IntroTweaks
+
 # CookiesClient 1.3.53
 
 - Updated config files 
