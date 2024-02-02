@@ -1,3 +1,10 @@
+# CookiesClient 1.3.55
+
+- Updated config files
+- Updated GeneralImprovements
+- Updated LethalCompany_InputUtils
+- Updated LethalRichPresence
+
 # CookiesClient 1.3.54
 
 - Updated config files
