@@ -1,3 +1,8 @@
+# CookiesClient 1.3.56
+
+- Updated LethalSettings
+- Updated CookiesSounds
+
 # CookiesClient 1.3.55
 
 - Updated config files
