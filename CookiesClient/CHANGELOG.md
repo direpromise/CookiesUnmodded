@@ -1,3 +1,8 @@
+# CookiesClient 1.3.57
+
+- Updated Coroner
+- Updated IntroTweaks
+
 # CookiesClient 1.3.56
 
 - Updated LethalSettings
