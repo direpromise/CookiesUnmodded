@@ -1,3 +1,7 @@
+# CookiesClient 1.3.58
+
+- Updated CookiesSounds
+
 # CookiesClient 1.3.57
 
 - Updated Coroner
