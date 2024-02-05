@@ -1,3 +1,7 @@
+# CookiesClient 1.3.59
+
+- Updated CookiesPresents
+
 # CookiesClient 1.3.58
 
 - Updated CookiesSounds

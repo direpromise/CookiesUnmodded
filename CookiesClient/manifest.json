@@ -1,6 +1,6 @@
 {
   "name": "CookiesClient",
-  "version_number": "1.3.58",
+  "version_number": "1.3.59",
   "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "🍪 [v47 & v49] WORKS WITH VANILLA SERVERS! A Client-Side Quality-of-Life modpack with a few extra tweaks. 🍪",
   "dependencies": [
@@ -68,6 +68,6 @@
     "fumiko-CullFactory-0.6.2",
     "ChocolateCookies-CookiesSounds-1.4.1",
     "CTNOriginals-CrossHair-1.1.0",
-    "ChocolateCookies-CookiesPresents-0.5.2"
+    "ChocolateCookies-CookiesPresents-0.6.1"
   ]
 }
