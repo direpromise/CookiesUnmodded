@@ -1,3 +1,10 @@
+# CookiesClient 1.3.60
+
+- Updated LethalCompany_InputUtils
+- Updated CoilHeadStare
+- Updated OpenBodyCams
+
+
 # CookiesClient 1.3.59
 
 - Updated CookiesPresents
