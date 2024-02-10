@@ -1,3 +1,12 @@
+# CookiesClient 1.3.62
+
+- Updated config files
+- Updated AccurateStaminaDisplay
+- Updated FlashlightFix
+- Updated OpenBodyCams
+- Updated CullFactory
+- Updated GeneralImprovements
+
 # CookiesClient 1.3.61
 
 - Updated config files
