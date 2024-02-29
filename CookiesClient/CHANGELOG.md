@@ -1,3 +1,20 @@
+# CookiesClient 1.3.7
+
+- Added MinimumQuotaFinder
+- CoilHeadStare will be updated to: 1.0.9
+- AccurateStaminaDisplay will be updated to: 2.0.1
+- FlashlightFix will be updated to: 1.1.1
+- ShowCapacity will be updated to: 1.0.9
+- Better_Lobbies will be updated to: 1.1.1
+- TerminalApi will be updated to: 1.5.2
+- Touchscreen will be updated to: 1.1.0
+- ToggleMute will be updated to: 1.3.1
+- Diversity will be updated to: 2.0.1
+- YippeeMod will be updated to: 1.2.4
+- OpenBodyCams will be updated to: 1.2.10
+- CullFactory will be updated to: 0.9.0
+- Removed IntroTweaks
+
 # CookiesClient 1.3.62
 
 - Updated config files
