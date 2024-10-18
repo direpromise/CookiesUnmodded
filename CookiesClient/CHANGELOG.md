@@ -1,3 +1,34 @@
+# CookiesClient 1.4.1
+
+- Updated to v64
+
+# CookiesClient 1.4.0
+
+- Updated to Support v50!
+- Added PauseMenu Lobby Name
+- Added Loadstone
+- Removed LC_Masked_Fix
+- Removed CustomPostProcessingAPI
+- Removed Runtime_Netcode_Patcher
+- AccurateStaminaDisplay will be updated to: 2.0.2
+- FlashlightFix will be updated to: 1.1.2
+- Skinwalkers will be updated to: 4.0.3
+- LethalCompany_InputUtils will be updated to: 0.7.4
+- AlwaysHearActiveWalkies will be updated to: 1.4.5
+- SuitSaver will be updated to: 1.1.5
+- Touchscreen will be updated to: 1.1.1
+- Coroner will be updated to: 1.6.2
+- Diversity will be updated to: 2.0.3
+- FriendPatches will be updated to: 1.0.4
+- GeneralImprovements will be updated to: 1.1.12
+- LethalConfig will be updated to: 1.4.0
+- LethalStats will be updated to: 0.9.5
+- OpenBodyCams will be updated to: 1.3.0
+- ScannableCodes will be updated to: 1.0.3
+- CullFactory will be updated to: 1.0.4
+- CrossHair will be updated to: 1.1.2
+
+
 # CookiesClient 1.3.7
 
 - Added MinimumQuotaFinder
